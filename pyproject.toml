@@ -30,6 +30,7 @@ my-project = 'my_project.console:run'
 [tool.isort]
 profile = "black"
 src_paths = ["my_project", "tests"]
+lines_after_imports = 5
 
 [build-system]
 requires = ["poetry-core"]
