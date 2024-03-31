@@ -1,9 +1,6 @@
 # Welcome to my-project 👋
 
-
-![Python Version from PEP 621 TOML](https://img.shields.io/python/required-version-toml?tomlFilePath=https%3A%2F%2Fgithub.com%2Fnumpy%2Fnumpy%2Fblob%2Fmain%2Fpyproject.toml)
-
-
+[![python](https://img.shields.io/badge/python-%3E%3D3.8-blue)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
@@ -37,13 +34,13 @@ my_project hello
 
 ## 📚 More information
 
-- my-project [documentation](https://github.airbus.corp/pages//my-project/)
+- my-project [documentation](https://github.com/pages/janedoe/my-project/)
 - And if you would like to contribute, see [instructions here].
 
 [instructions here]: CONTRIBUTING.md
 
 ## 📌 Credits
 
-This project was generated from the [quickstart-python] template.
+This project was generated from the [copier-pypackage] template.
 
-[quickstart-python]: https://github.airbus.corp/Airbus/quickstart-python
+[copier-pypackage]: https://github.com/mitasse/copier-pypackage-template
