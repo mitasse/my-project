@@ -22,7 +22,9 @@ click = "8.*"
 [tool.poetry.group.dev.dependencies]
 copier = "9.*"
 pre-commit = "3.*"
+ruff = "0.*"
 isort = "5.*"
+black = "24.*"
 
 [tool.poetry.scripts]
 my-project = 'my_project.console:run'
@@ -30,6 +32,12 @@ my-project = 'my_project.console:run'
 [tool.isort]
 profile = "black"
 src_paths = ["my_project", "tests"]
+
+[tool.black]
+line-length = 88
+target-version = ['py38']
+include = '\.pyi?$'
+
 
 [build-system]
 requires = ["poetry-core"]

@@ -1,5 +1,6 @@
 # -*- coding: utf-8 -*-
 """Top-level package for my-project."""
+
 import importlib.metadata
 
 __author__ = """Jane Doe"""
