@@ -1,0 +1,32 @@
+[tool.poetry]
+name = "my-project"
+version = "0.1.0"
+description = "No description provided."
+license = "MIT"
+authors = [
+    "Jane Doe <jane.doe@example.com>"
+]
+readme = "README.md"
+repository = "https://github.com/janedoe/my-project"
+keywords = ["my-project"]
+packages = [
+    { include = "my_project" },
+]
+
+
+[tool.poetry.dependencies]
+python = ">=3.8,<=3.12"
+click = "8.*"
+
+
+[tool.poetry.group.dev.dependencies]
+copier = "9.*"
+pre-commit = "3.*"
+
+[tool.poetry.scripts]
+my-project = 'my_project.console:run'
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
