@@ -20,6 +20,7 @@ click = "8.*"
 
 
 [tool.poetry.group.dev.dependencies]
+optional = true
 copier = "9.*"
 pre-commit = "3.*"
 isort = "5.*"
