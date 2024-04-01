@@ -1,14 +1,14 @@
 [tool.poetry]
 name = "my-project"
 version = "0.1.0"
-description = "No description provided."
+description = "my-project - A Python package that provides ..."
 license = "MIT"
 authors = [
     "Jane Doe <jane.doe@example.com>"
 ]
 readme = "README.md"
 repository = "https://github.com/janedoe/my-project"
-keywords = ["my-project"]
+keywords = ["python", "copier-pypackage"]
 packages = [
     { include = "my_project" },
 ]
