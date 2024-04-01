@@ -1,16 +1,16 @@
-# Contributing to Mypy
+# Contributing to my-project
 
-Welcome!  Mypy is a community project that aims to work for a wide
-range of Python users and Python codebases.  If you're trying mypy on
+Welcome!  my-project is a community project that aims to work for a wide
+range of Python users and Python codebases. If you're trying my-project on
 your Python code, your experience and what you can contribute are
 important to the project's success.
 
 ## Code of Conduct
 
-Everyone participating in the Mypy community, and in particular in our
+Everyone participating in the my-project community, and in particular in our
 issue tracker, pull requests, and chat, is expected to treat
 other people with respect and more generally to follow the guidelines
-articulated in the [Python Community Code of Conduct](CONTRIBUTING.md).
+articulated in the [Contributor Covenant Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Getting started with development
 
