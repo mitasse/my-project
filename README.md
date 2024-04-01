@@ -8,12 +8,6 @@
 
 
 
-## 🔧 Prerequisites
-
-Before you get started, you're going to need a few things:
-
-- Install Python 3.8 or newer.
-
 ## 🚀 Installation
 
 You can install _my-project_ via [pip]:
@@ -43,4 +37,4 @@ my_project hello
 
 This project was generated from the [copier-pypackage] template.
 
-[copier-pypackage]: https://github.com/mitasse/copier-pypackage-template
+[copier-pypackage]: https://github.com/mitasse/copier-pypackage
