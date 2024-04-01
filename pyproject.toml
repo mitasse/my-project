@@ -15,18 +15,19 @@ packages = [
 
 
 [tool.poetry.dependencies]
-python = ">=3.8,<=3.12"
-click = "8.*"
+python = ">=3.10, <3.13"
+click = "*"
 
-
-[tool.poetry.group.dev]
-optional = true
 
 [tool.poetry.group.dev.dependencies]
-copier = "9.*"
-pytest = "8.*"
-pre-commit = "3.*"
-ruff = "0.*"
+copier = "*"
+pytest = "*"
+pytest-sugar = "*"
+pytest-cov = "*"
+pre-commit = "*"
+ruff = "*"
+tox = "*"
+mypy = "*"
 
 
 [tool.poetry.scripts]

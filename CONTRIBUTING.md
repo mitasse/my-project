@@ -33,7 +33,7 @@ my-project uses Poetry for dependency management and packaging.
 For more information about Poetry, and its installation please refer to [Poetry documentation](https://python-poetry.org/docs/).
 
 ```bash
-poetry install --with dev
+poetry install
 ```
 
 > **Note**

@@ -12,11 +12,3 @@ repos:
       entry: ruff format --force-exclude
       language: python
       types_or: [python, pyi]
-
-    - id: pytest-check
-      name: pytest-check
-      entry: pytest -v
-      types: [python]
-      language: system
-      pass_filenames: false
-      always_run: true
