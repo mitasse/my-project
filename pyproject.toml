@@ -19,12 +19,14 @@ python = ">=3.8,<=3.12"
 click = "8.*"
 
 
-[tool.poetry.group.dev.dependencies]
+[tool.poetry.group.dev]
 optional = true
+
+[tool.poetry.group.dev.dependencies]
 copier = "9.*"
+pytest = "8.*"
 pre-commit = "3.*"
-isort = "5.*"
-black = "24.*"
+ruff = "0.*"
 
 
 [tool.poetry.scripts]
