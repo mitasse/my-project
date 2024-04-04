@@ -12,7 +12,6 @@ keywords = ["python", "copier-pypackage"]
 packages = [
     { include = "my_project" },
 ]
-exclude = ["README.md", "LICENSE", "CODE_OF_CONDUCT.md"]
 
 
 [tool.poetry.dependencies]
