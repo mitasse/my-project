@@ -3,10 +3,10 @@
 [![python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
 ![Tests](https://github.com/mitasse/my-project/actions/workflows/ci.yml/badge.svg)
 [![codecov](https://codecov.io/gh/mitasse/my-project/graph/badge.svg)](https://codecov.io/gh/mitasse/my-project)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
 [![security: bandit](https://img.shields.io/badge/security-bandit-yellow.svg)](https://github.com/PyCQA/bandit)
 [![Checked with mypy](http://www.mypy-lang.org/static/mypy_badge.svg)](http://mypy-lang.org/)
-[![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
 my-project - A Python package that provides ...
 
