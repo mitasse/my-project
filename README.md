@@ -1,7 +1,7 @@
 # Welcome to my-project 👋
 
 [![python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
-![Tests](https://github.com/mitasse/my-project/actions/workflows/python-package.yml/badge.svg)
+![Tests](https://github.com/mitasse/my-project/actions/workflows/tests.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 [![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
