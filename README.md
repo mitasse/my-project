@@ -1,6 +1,7 @@
 # Welcome to my-project 👋
 
 [![python](https://img.shields.io/badge/python-3.9%2B-blue)](https://www.python.org)
+[![codecov](https://codecov.io/gh/mitasse/my-project/graph/badge.svg?token=15550TIQXB)](https://codecov.io/gh/mitasse/my-project)
 ![Tests](https://github.com/mitasse/my-project/actions/workflows/ci.yml/badge.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
